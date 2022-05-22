@@ -1,0 +1,21 @@
+{
+  "id": 08969402,
+  "name": "Icarus Dragon of the Wind Barrier",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is normal summoned, change all attackposition monsters inro defence position (other than this card). This card can make a second attack each turn if your opponent controls 2 more cands than you.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "Wind",
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 8,
+  "is_tuner": false 
+}
